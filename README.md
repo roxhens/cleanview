@@ -106,7 +106,7 @@ Add custom patterns in VS Code settings:
 
 ## Contributing
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/cleanview/cleanview/issues).
+Found a bug or have a suggestion? Please [open an issue](https://github.com/roxhens/cleanview/issues).
 
 ## License
 
