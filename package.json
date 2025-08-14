@@ -2,17 +2,17 @@
   "name": "cleanview",
   "displayName": "CleanView",
   "description": "Hide files matching .gitignore patterns from VS Code Explorer for a cleaner workspace.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "roxhens",
   "author": "Roxhens Meraj",
   "license": "MIT",
-  "homepage": "https://github.com/cleanview/cleanview",
+  "homepage": "https://github.com/roxhens/cleanview",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cleanview/cleanview"
+    "url": "https://github.com/roxhens/cleanview"
   },
   "bugs": {
-    "url": "https://github.com/cleanview/cleanview/issues"
+    "url": "https://github.com/roxhens/cleanview/issues"
   },
   "engines": {
     "vscode": "^1.74.0"
